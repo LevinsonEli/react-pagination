@@ -2,4 +2,4 @@
 
 Deployed on [react-pagination-page.netlify.app][link]
 
-[link]: react-pagination-page.netlify.app
+[link]: https://react-pagination-page.netlify.app
